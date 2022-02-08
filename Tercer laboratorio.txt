@@ -1,0 +1,28 @@
+Lista de materiales para Tercer Laboratorio de Graduandos 27/08/2021
+
+1) Arduino Uno
+2) Protoboard 
+
+Componentes
+1) Display de 7 segmentos ("Anodo comun")
+2) 10 Diodos led
+3) 10 resistencias de 330
+4) 1 potenciometro de 10K 
+5) Jumpers 
+
+
+Lista de estudio
+1) Introduccion a Arduino 
+2) Caracteristicas de Arduino
+3) Partes de la placa de Arduino
+4) Tipos de Arduino
+5) Shields, sensores y modulos (Informacion)
+6) Software y Hardware libre
+7) Pines PWM
+8) Entradas y salidas digitales
+9) Entradas Analogicas
+10) Puertos en Arduino y programacion binaria 
+11) Sentencias, condiciones y ciclos
+12) Modulos y sensores (Utilizacion)
+13) Librerias de cada modulo
+14) PLC y sus caracteristicas 
